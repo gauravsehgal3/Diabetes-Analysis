@@ -52,7 +52,7 @@ diabetes-analysis/
     ```
 
 ## Dataset
-The dataset used in this project is the Pima Indians Diabetes Database. It contains medical data of patients along with a label indicating whether or not each patient has diabetes. The dataset file `diabetes.csv` should be placed in the `data/` directory.
+The dataset used in this project is the Pima Indians Diabetes Database. It contains medical data of patients along with a label indicating whether or not each patient has diabetes. The dataset file `diabetes-database.csv` should be placed in the `data/` directory.
 
 ## Data Preprocessing
 Data preprocessing involves cleaning the dataset, handling missing values, and normalizing the data. The preprocessing steps are documented in the `01_data_preprocessing.ipynb` notebook and implemented in `src/preprocess.py`.
